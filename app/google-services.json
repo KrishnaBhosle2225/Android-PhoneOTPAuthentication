@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662078628552",
+    "project_id": "asciieducation-957d4",
+    "storage_bucket": "asciieducation-957d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662078628552:android:6fbbb9dd747a4041a97bfd",
+        "android_client_info": {
+          "package_name": "com.krishna.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662078628552-droeod17odabttmni482au6trlk149do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4sSqg9IDbRW0kmKm5XhAQt-7AqyHk-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662078628552-droeod17odabttmni482au6trlk149do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
